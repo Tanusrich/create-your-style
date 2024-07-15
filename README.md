@@ -56,3 +56,8 @@ This project demonstrates a Virtual Try-On application using Gradio, where users
 5. **Post Outfit** (Optional): After trying on the garment, you have the option to post the outfit by clicking on the "Post Outfit" button. This will save the outfit image for others to view and rate.
 
 6. **View and Rate Posted Outfits**: Click on the "View Posted Outfits" button to see outfits that other users have posted. You can view these outfits and rate them using the provided like and dislike buttons.
+
+
+## API Used
+
+This project utilizes the IDM-VTON API provided by kadirnar on the Hugging Face Spaces platform. The API is used for performing virtual try-ons by overlaying selected garments on uploaded images of individuals.
